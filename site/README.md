@@ -1,3 +1,24 @@
+# Uso y ejecucición
+
+1. Install yarn:
+
+```bash
+npm install -g yarn
+```
+
+2. Install the dependencies:
+
+```bash
+yarn install
+```
+
+3. Run development server:
+
+```bash
+yarn dev
+```
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
